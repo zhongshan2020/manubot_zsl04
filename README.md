@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/zhongshan2020/manubot_zsl04/tree/gh-pages) branch hosts the contents of this directory at <https://zhongshan2020.github.io/manubot_zsl04/>.
-The permalink for this webpage version is <https://zhongshan2020.github.io/manubot_zsl04/v/6087bb0e87edf6b5211edc293c3fe3cc03075c8c/>.
+The permalink for this webpage version is <https://zhongshan2020.github.io/manubot_zsl04/v/fbf68f9427363b5b3a09310cf811ed35b4b02709/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://zhongshan2020.github.io/manubot_zsl04/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`6087bb0e87edf6b5211edc293c3fe3cc03075c8c`](https://github.com/zhongshan2020/manubot_zsl04/commit/6087bb0e87edf6b5211edc293c3fe3cc03075c8c).
+[`fbf68f9427363b5b3a09310cf811ed35b4b02709`](https://github.com/zhongshan2020/manubot_zsl04/commit/fbf68f9427363b5b3a09310cf811ed35b4b02709).
