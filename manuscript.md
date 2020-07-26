@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Manuscript Title add this by zsl" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Manuscript Title add this by zsl" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Manuscript Title add this by zsl" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Manuscript Title add this by zsl" />
 
   <meta name="dc.date" content="2020-07-26" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://zhongshan2020.github.io/manubot_zsl04/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://zhongshan2020.github.io/manubot_zsl04/v/6087bb0e87edf6b5211edc293c3fe3cc03075c8c/" />
+  <link rel="alternate" type="text/html" href="https://zhongshan2020.github.io/manubot_zsl04/v/fbf68f9427363b5b3a09310cf811ed35b4b02709/" />
 
-  <meta name="manubot_html_url_versioned" content="https://zhongshan2020.github.io/manubot_zsl04/v/6087bb0e87edf6b5211edc293c3fe3cc03075c8c/" />
+  <meta name="manubot_html_url_versioned" content="https://zhongshan2020.github.io/manubot_zsl04/v/fbf68f9427363b5b3a09310cf811ed35b4b02709/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://zhongshan2020.github.io/manubot_zsl04/v/6087bb0e87edf6b5211edc293c3fe3cc03075c8c/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://zhongshan2020.github.io/manubot_zsl04/v/fbf68f9427363b5b3a09310cf811ed35b4b02709/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +93,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Manuscript Title add this by zsl
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://zhongshan2020.github.io/manubot_zsl04/v/6087bb0e87edf6b5211edc293c3fe3cc03075c8c/))
+([permalink](https://zhongshan2020.github.io/manubot_zsl04/v/fbf68f9427363b5b3a09310cf811ed35b4b02709/))
 was automatically generated
-from [zhongshan2020/manubot_zsl04@6087bb0](https://github.com/zhongshan2020/manubot_zsl04/tree/6087bb0e87edf6b5211edc293c3fe3cc03075c8c)
+from [zhongshan2020/manubot_zsl04@fbf68f9](https://github.com/zhongshan2020/manubot_zsl04/tree/fbf68f9427363b5b3a09310cf811ed35b4b02709)
 on July 26, 2020.
 </em></small>
 
